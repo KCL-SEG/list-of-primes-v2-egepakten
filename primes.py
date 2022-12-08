@@ -22,5 +22,3 @@ def primes(number_of_primes):
         return list
     else:
         raise ValueError
-
-print(primes(0))
